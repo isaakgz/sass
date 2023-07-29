@@ -1,4 +1,5 @@
 # Ignore the tangled output of literate TypeScript specs.
+#enem alew
 /proposal/*.d.ts
 /accepted/*.d.ts
 /spec/**/*.d.ts
